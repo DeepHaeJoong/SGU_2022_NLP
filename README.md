@@ -5,3 +5,5 @@
 ||contents|date|
 |:---:|:---:|:---:|
 |1|3 - Neural Machine Translation by Jointly Learning to Align and Translate|2022-10-12|
+|2|6 - Attention_is_All_You_Need|2022-11-02|
+|3|...|...|
