@@ -9,5 +9,5 @@
 |3|[XLNet - Generalized Autoregressive Pretraining for Language Understanding.](https://github.com/DeepHaeJoong/SGU_2022_NLP/blob/master/XLNet/7%20-%20XLNet_Generalized%20Autoregressive%20Pretraining%20for%20Language%20Understanding.ipynb)|[paper](https://arxiv.org/pdf/1906.08237.pdf)|2022-11-16|
 |4|[ELECTRA - PRE-TRAINING TEXT ENCODERSAS DISCRIMINATORS RATHER THAN GENERATORS.](https://github.com/DeepHaeJoong/SGU_2022_NLP/blob/master/ELECTRA/ELECTRA.ipynb)|[paper](https://arxiv.org/pdf/2003.10555.pdf)|2022-11-30|
 |5|[DIALOGPT - Large-Scale Generative Pre-trainingfor Conversational Response Generation.](https://github.com/DeepHaeJoong/SGU_2022_NLP/blob/master/DialoGPT/DialoGPT.ipynb) |[paper](https://arxiv.org/pdf/1911.00536.pdf)|2022-12-14|
-|6|[Term Project](...) |[paper](...) |2022-12-30|
+|6|[Term Project](https://github.com/DeepHaeJoong/SGU_2022_NLP/blob/master/Term%20Project/DialoGPT%20-%20Term%20Project.ipynb) |[paper](https://github.com/DeepHaeJoong/SGU_2022_NLP/blob/master/Term%20Project/%EC%9E%90%EC%97%B0%EC%96%B4%EC%B2%98%EB%A6%AC%20%EA%B8%B0%EB%A7%90%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.pdf) |2022-12-30|
 
